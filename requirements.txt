@@ -1,1 +1,6 @@
-streamlitpandaspython-docxpython-barcodePillow
+streamlit
+pandas
+python-docx
+python-barcode
+Pillow
+gunicorn
